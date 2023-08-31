@@ -1,4 +1,0 @@
-framework module MatrixCreator {
-  header "MatrixCreator-Swift.h"
-  requires objc
-}
