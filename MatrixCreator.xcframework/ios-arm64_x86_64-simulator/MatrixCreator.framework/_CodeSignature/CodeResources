@@ -28,17 +28,17 @@
 		<data>
 		jW9sbGVYWm/wijsAUUH6hql29oE=
 		</data>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		z0GfUuigQ4kcy5viQfZHrPdrbS8=
+		agdoRDc/C8qVt3Lh9Uh4D8xLbGE=
 		</data>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+wdokEQK8LyUqvZgwWshqQEU9c8=
+		vj/I/Sl7W59y8jL0cXAfxRotKEA=
 		</data>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6LuyrItAnATHXbqOSIUJ4XjUMxc=
+		P0IR9p+ddtxMFCyKhMuPZmIAHtM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,25 +94,25 @@
 			MgO7h4cH53Sjjez3vAXOp6jlUjPvH6Z3Y5xgT5rIDNI=
 			</data>
 		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bVb4VRERqbyWALqPp47l+YDhpn7uZM8gHQnFoOts05A=
+			X9pBHwmjLwuhNKeoMAAvg9E8K0Xa3QxHLekzIP8TtPg=
 			</data>
 		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JdWmIw0+91cvTdTtJ5hTtdkL6s6C3zjgM4rHvXMaod0=
+			rTA9kfFeBegf0CO67twdBLmDicHzXXENE2FJQyXPFhk=
 			</data>
 		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xXMoAaFOljUBV8WdiGxjNDPzifU8ciwCs1sD5ch+cLQ=
+			qTA8gq2lPatgHQtgRpejmFoQ2Y0UJUpAwdoo8NCVQBs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
