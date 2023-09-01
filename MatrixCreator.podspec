@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
   
   spec.name         = "MatrixCreator"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of MatrixCreator."
   spec.description  = "A framework for testing the pod-spec and test the xcframework"
   spec.homepage     = "https://github.com/rupinder-matrix/CreatorMatrix"
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "14.0"
 
-  spec.source       = { :git => "https://github.com/rupinder-matrix/CreatorMatrix.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/rupinder-matrix/CreatorMatrix.git", :tag => spec.version.to_s}
 # spec.source_files  = "MatrixValidator.xcframework/ios-arm64/MatrixValidator.framework/Headers/**/*.{h}"
 
   spec.vendored_frameworks = "MatrixCreator.xcframework"
