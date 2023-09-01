@@ -394,7 +394,7 @@ SWIFT_PROTOCOL("_TtP13MatrixCreator18SocketEngineClient_")
 @end
 
 /// Represents the type of engine.io packet types.
-typedef SWIFT_ENUM(NSInteger, SocketEnginePacketType, closed) {
+typedef SWIFT_ENUM(NSInteger, SocketEnginePacketType, open) {
 /// Open message.
   SocketEnginePacketTypeOpen = 0,
 /// Close message.
@@ -429,7 +429,7 @@ SWIFT_CLASS("_TtC13MatrixCreator14SocketIOClient")
 @end
 
 /// Represents state of a manager or client.
-typedef SWIFT_ENUM(NSInteger, SocketIOStatus, closed) {
+typedef SWIFT_ENUM(NSInteger, SocketIOStatus, open) {
 /// The client/manager has never been connected. Or the client has been reset.
   SocketIOStatusNotConnected = 0,
 /// The client/manager was once connected, but not anymore.
