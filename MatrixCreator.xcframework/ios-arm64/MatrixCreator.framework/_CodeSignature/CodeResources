@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/MatrixCreator-Swift.h</key>
 		<data>
-		8w20qcSQGqqHQiVexB7xJQNS/wo=
+		rFBM4JMmo2lDwHJZPbX9PcYEwTg=
 		</data>
 		<key>Headers/adopshun_ios.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4zFNBo4TH/9es2zFl5B8h7eCp/g=
+		LQUe57CtPNpyzgeMTzdDTilaQvk=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -32,9 +32,13 @@
 		<data>
 		fdAUw0timFVHJvwTM+STGNgD8lM=
 		</data>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		/AX8X/isat6H8ostSd06jbtwerw=
+		</data>
 		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		x2WLeaIOMS0Ead8cQ5zMybzKW4U=
+		czIUL8wSWbqSOfJLIfWjdGQXplg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,7 +77,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TIS4jMa63Y8dvMyMCn9Vd75nrxFp0Ke5Tfut2TdMLo0=
+			5FnXeh8L+ALGidg7O17EDw1VbYhroZX0jgcIKIM/1J0=
 			</data>
 		</dict>
 		<key>Headers/adopshun_ios.h</key>
@@ -97,11 +101,18 @@
 			OPnCpiVh2lIqGo0TMq+fiWSTjUVWsYxfKb0W1E/jcUg=
 			</data>
 		</dict>
+		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vN2KxrwW5C3zPiSAQLXXc5T2w0+BBQlBk1r/68oLJNQ=
+			</data>
+		</dict>
 		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+1SGUjnFppi5QQyAI5moLBEXmTCjoWniqt+ttsQMh9E=
+			g9wshRfaVkVqj+FQVGnbevtK/LAnjpF2vBnsA8rM3bs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
