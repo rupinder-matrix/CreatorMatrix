@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/MatrixCreator-Swift.h</key>
 		<data>
-		rFBM4JMmo2lDwHJZPbX9PcYEwTg=
+		8w20qcSQGqqHQiVexB7xJQNS/wo=
 		</data>
 		<key>Headers/adopshun_ios.h</key>
 		<data>
@@ -28,17 +28,13 @@
 		<data>
 		jW9sbGVYWm/wijsAUUH6hql29oE=
 		</data>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		agdoRDc/C8qVt3Lh9Uh4D8xLbGE=
+		z0GfUuigQ4kcy5viQfZHrPdrbS8=
 		</data>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vj/I/Sl7W59y8jL0cXAfxRotKEA=
-		</data>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		P0IR9p+ddtxMFCyKhMuPZmIAHtM=
+		G6+CMuq9Ew5F2TBjIfjTcyWF7DU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -77,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5FnXeh8L+ALGidg7O17EDw1VbYhroZX0jgcIKIM/1J0=
+			TIS4jMa63Y8dvMyMCn9Vd75nrxFp0Ke5Tfut2TdMLo0=
 			</data>
 		</dict>
 		<key>Headers/adopshun_ios.h</key>
@@ -94,25 +90,18 @@
 			MgO7h4cH53Sjjez3vAXOp6jlUjPvH6Z3Y5xgT5rIDNI=
 			</data>
 		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9pBHwmjLwuhNKeoMAAvg9E8K0Xa3QxHLekzIP8TtPg=
+			bVb4VRERqbyWALqPp47l+YDhpn7uZM8gHQnFoOts05A=
 			</data>
 		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixCreator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTA9kfFeBegf0CO67twdBLmDicHzXXENE2FJQyXPFhk=
-			</data>
-		</dict>
-		<key>Modules/MatrixCreator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qTA8gq2lPatgHQtgRpejmFoQ2Y0UJUpAwdoo8NCVQBs=
+			EA7mtYIaOJVPQQeamuhZsg9PXwaREHb/JBZFSAZz0dA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
